@@ -47,13 +47,13 @@ print(list1)
 set1 = {'nodups', 'but', 'random', 'order'}
 print(set1)
 
-dictdick = {
+dictdi = {
     'piece': 'chair',
     'color': 'tan',
     'age': 5
 }
 
-print(dictdick["piece"])
+print(dictdi["piece"])
 
 
 
